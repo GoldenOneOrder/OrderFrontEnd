@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="264.58mm" height="264.58mm" version="1.1" viewBox="0 0 264.58334 264.58334" xmlns="http://www.w3.org/2000/svg" xmlnsCc="http://creativecommons.org/ns#" xmlnsDc="http://purl.org/dc/elements/1.1/" xmlnsRdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<defs>
+<clipPath id="d">
+<path d="m356.52 984h-15.491c-0.3301 0-0.5977-0.267-0.5977-0.5964v-37.569c0-0.3296 0.2676-0.5966 0.5977-0.5966h10.758c0.3301 0 0.5977 0.267 0.5977 0.5966v9.5413h4.135c7.9222 0 14.344 6.4079 14.344 14.312 0 7.904-6.422 14.312-14.344 14.312" clipRule="evenodd"/>
+</clipPath>
+<clipPath id="c">
+<path d="m0 0h1225v4536h-1225z"/>
+</clipPath>
+<clipPath id="k">
+<path d="m0 0h1225v4536h-1225z"/>
+</clipPath>
+<clipPath id="j">
+<path d="m326 941h20v39h-20z"/>
+</clipPath>
+<clipPath id="i">
+<path d="m326 979.83h19.164v-38.791h-19.164z" clipRule="evenodd"/>
+</clipPath>
+<clipPath id="h">
+<path d="m325 940h21v40h-21z"/>
+</clipPath>
+<clipPath id="g">
+<path d="m326 941h20v39h-20z"/>
+</clipPath>
+<clipPath id="f">
+<path d="m345.16 970.52h-1.3051v9.3138h-17.26c-0.3308 0-0.5992-0.2675-0.5992-0.5971v-13.129c0-0.3296 0.2684-0.5968 0.5992-0.5968h6.5876v-23.871c0-0.3296 0.2681-0.5966 0.5989-0.5966h10.78c0.3308 0 0.5989 0.267 0.5989 0.5966z" clipRule="evenodd"/>
+</clipPath>
+<clipPath id="e">
+<path d="m325 941h21v39h-21z"/>
+</clipPath>
+<clipPath id="l">
+<path d="m345.87 999c19.811 0 35.87-16.06 35.87-35.87s-16.06-35.87-35.87-35.87-35.87 16.06-35.87 35.87 16.06 35.87 35.87 35.87z" clipRule="evenodd"/>
+</clipPath>
+<linearGradient id="b" x2="0" y2="1024" gradientTransform="matrix(1,0,0,-1,310,999)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2bafff" offset="0"/>
+<stop stop-color="#2761e7" offset="1"/>
+</linearGradient>
+<linearGradient id="a" x1="71.741" x2="1.0736" y2="71.741" gradientTransform="matrix(1,0,0,-1,310,999)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2bafff" offset="0"/>
+<stop stop-color="#2761e7" offset="1"/>
+</linearGradient>
+</defs>
+<metadata>
+<rdfRDF>
+<ccWork rdfAbout="">
+<dcFormat>image/svg+xml</dcFormat>
+<dcType rdfResource="http://purl.org/dc/dcmitype/StillImage"/>
+<dcTitle/>
+</ccWork>
+</rdfRDF>
+</metadata>
+<g transform="translate(43.648 39.113)">
+<g transform="matrix(3.688 0 0 -3.688 -1186.9 3645.2)">
+<g clip-path="url(#l)">
+<path d="m0 0h1225v4536h-1225z" fill="url(#b)"/>
+<path d="m0 0h1225v4536h-1225z" fill="url(#a)"/>
+</g>
+</g>
+<g transform="matrix(3.688 0 0 -3.688 -1186.9 3645.2)">
+<g clip-path="url(#k)">
+<g clip-path="url(#j)" opacity=".6">
+<g clip-path="url(#i)">
+<g clip-path="url(#h)">
+<g clip-path="url(#g)">
+<g clip-path="url(#f)">
+<g clip-path="url(#e)">
+<path d="m321 936.04h29.164v48.791h-29.164z" fill="#fff" style="fillRule:nonzero"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(3.688 0 0 -3.688 -1186.9 3645.2)">
+<g clip-path="url(#d)">
+<g clip-path="url(#c)">
+<path d="m335.43 940.24h40.433v48.762h-40.433z" fill="#fff" style="fillRule:nonzero"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
